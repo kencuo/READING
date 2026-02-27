@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(npx vite build)",
+      "Bash(node -e:*)",
+      "Bash(node:*)",
+      "Bash(npm install:*)",
+      "WebFetch(domain:hf-mirror.com)",
+      "Bash(curl:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
